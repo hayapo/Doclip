@@ -1,8 +1,8 @@
-import { Provider, createStore } from 'jotai';
+import { Provider } from 'jotai';
 import React from 'react';
 import { createRoot } from 'react-dom/client';
 import App from './app/App.tsx';
-import './global.css';
+import './styles/global.css';
 
 createRoot(document.getElementById('root') as HTMLElement).render(
 	<React.StrictMode>

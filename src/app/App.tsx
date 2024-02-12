@@ -7,7 +7,7 @@ import {
 	currentDocInfoAtom,
 	firstCallAtom,
 } from '../atoms/atoms';
-import { TITLE } from '../constants';
+import { TITLE } from '../util/constants';
 import { SaveCurrentPageInfo } from './CurrentPageInfo/SaveCurrentPageInfo';
 import { SavedInfos } from './SavedInfos/SavedInfos';
 
