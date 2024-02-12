@@ -4,6 +4,16 @@ Chrome extension to clip document info
 
 ## Features
 
-## Author
+- Clip document url and title of current tab
+- Custom title
+- Update url on same document
+- Manifest v3
 
-@hayapo
+## Thanks to
+
+- Biome
+- Vite & Vitest
+- Tailwindcss
+- pnpm
+- Jest
+- Jotai
