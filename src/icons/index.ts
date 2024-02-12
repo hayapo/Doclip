@@ -1,8 +1,8 @@
-export { GravityUiArrowsRotateRight } from './arrowsRoateRight';
-export { GravityUiTrashBin } from './trashBin';
-export { GravityUiCirclePlusFill } from './circlePlusFill';
-export { GravityUiPencilToSquare } from './pencilToSquare';
-export { GravityUiSquareCheck } from './squareCheck';
-export { GravityUiCircleInfo } from './circleInfo';
-export { GravityUiChevronUp } from './arrowUp';
-export { GravityUiChevronDown } from './arrowDown';
+export { GravityUiArrowsRotateRight } from './ArrowsRoateRight';
+export { GravityUiTrashBin } from './TrashBin';
+export { GravityUiCirclePlusFill } from './CirclePlusFill';
+export { GravityUiPencilToSquare } from './PencilToSquare';
+export { GravityUiSquareCheck } from './SquareCheck';
+export { GravityUiCircleInfo } from './CircleInfo';
+export { GravityUiChevronUp } from './ArrowUp';
+export { GravityUiChevronDown } from './ArrowDown';
